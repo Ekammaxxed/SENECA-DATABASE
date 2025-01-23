@@ -12,6 +12,9 @@ Some information to help you design the database follows:
 8-	Each academic term, e.g., Fall 2024 (code: 2247) zero to many of the program courses are offered, possibly in multiple sections. For example, BTD210NAA_2247 and BTD210NCC_2247 are two sections of the BTD210 course offered in Fall 2024. 
 9-	Each course section (e.g. BTD210NAA_2247) can have one or more professors. Each professor can teach zero to many course sections in each academic term. For example, these courses were offered:
 
+![image](https://github.com/user-attachments/assets/50fa56ec-d662-4548-8188-096a6e5ff649)
+
+
 
 
 
